@@ -1,82 +1,285 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1093/nar/gkad289
-  title: 'MyGeneset.info: an interactive and programmatic platform for community-curated
-    and user-created collections of genes'
+- id: doi:10.1037/xge0001479
+  title: Object-based encoding constrains storage in visual working memory.
   authors:
-  - Ricardo Avila
-  - Vincent Rubinetti
-  - Xinghua Zhou
-  - Dongbo Hu
-  - Zhongchao Qian
-  - Marco Alvarado Cano
-  - Everaldo Rodolpho
-  - Ginger Tsueng
-  - Casey Greene
-  - Chunlei Wu
-  publisher: Nucleic Acids Research
-  date: '2023-04-18'
-  link: https://doi.org/gr5hb5
-  orcid: 0000-0002-4655-3773
+  - William X. Q. Ngiam
+  - Krystian B. Loetscher
+  - Edward Awh
+  publisher: 'Journal of Experimental Psychology: General'
+  date: '2023-09-11'
+  link: https://doi.org/gs9vbk
+  orcid: 0000-0003-3567-3881
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2023.01.05.522941
-  title: Hetnet connectivity search provides rapid insights into how two biomedical
-    entities are related
+- id: doi:10.3758/s13423-023-02356-5
+  title: Mapping visual working memory models to a theoretical framework
   authors:
-  - Daniel S. Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J. Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N. Nicholson
-  - Yun Hao
-  - Blair D. Sullivan
-  - Michael W. Nagle
-  - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
-  date: '2023-01-07'
-  link: https://doi.org/grmcb9
-  orcid: 0000-0002-4655-3773
+  - William Xiang Quan Ngiam
+  publisher: Psychonomic Bulletin &amp; Review
+  date: '2023-08-28'
+  link: https://doi.org/gsnz35
+  orcid: 0000-0003-3567-3881
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/gigascience/giad047
-  title: Hetnet connectivity search provides rapid insights into how biomedical entities
-    are related
+- id: doi:10.3758/s13414-022-02631-y
+  title: 'Distinguishing guesses from fuzzy memories: Further evidence for item limits
+    in visual working memory'
   authors:
-  - Daniel S Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N Nicholson
-  - Yun Hao
-  - Blair D Sullivan
-  - Michael W Nagle
-  - Casey S Greene
-  publisher: GigaScience
-  date: '2022-12-28'
-  link: https://doi.org/gsd85n
-  orcid: 0000-0002-4655-3773
+  - William X. Q. Ngiam
+  - Joshua J. Foster
+  - Kirsten C. S. Adam
+  - Edward Awh
+  publisher: Attention, Perception, &amp; Psychophysics
+  date: '2022-12-20'
+  link: https://doi.org/gs9vbm
+  orcid: 0000-0003-3567-3881
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1186/s13059-020-02021-3
-  title: Compressing gene expression data using multiple latent space dimensionalities
-    learns complementary biological representations
+- id: doi:10.31234/osf.io/g8erx
+  title: Mapping visual working memory models to a theoretical framework
   authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Genome Biology
-  date: '2020-05-11'
-  link: https://doi.org/gg2mjh
-  orcid: 0000-0002-4655-3773
+  - William Xiang Quan Ngiam
+  publisher: Center for Open Science
+  date: '2023-03-17'
+  link: https://doi.org/gs9vbn
+  orcid: 0000-0003-3567-3881
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.31234/osf.io/mc5p9
+  title: Object-based encoding constrains storage in visual working memory
+  authors:
+  - William Xiang Quan Ngiam
+  - Krystian Loetscher
+  - Ed Awh
+  publisher: Center for Open Science
+  date: '2023-03-10'
+  link: https://doi.org/gs9vbp
+  orcid: 0000-0003-3567-3881
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.31234/osf.io/gh5ps
+  title: Learning and retention of new symbolic representations of number
+  authors:
+  - Patrick T. Goodbourn
+  - Evan James Livesey
+  - William Xiang Quan Ngiam
+  - Alex O. Holcombe
+  - Jason Forte
+  publisher: Center for Open Science
+  date: '2022-09-27'
+  link: https://doi.org/gs9vbq
+  orcid: 0000-0003-3567-3881
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.31222/osf.io/4nvpt
+  title: EEG ERP Preregistration Template
+  authors:
+  - Gisela Hanna Govaart
+  - Antonio Schettino
+  - Saskia Helbling
+  - David Marc Anton Mehler
+  - William Xiang Quan Ngiam
+  - David Moreau
+  - Francesco Chiossi
+  - Anthony Paul Zanesco
+  - Yu-Fang Yang
+  - Remi Gau
+  - James Edward Bartlett
+  - "Jos\xE9 C. Garc\xEDa Alanis"
+  - Jennifer Nadine Gutsell
+  - "Melis \xC7etin\xE7elik"
+  - Yuri G. Pavlov
+  - "An\u0111ela \u0160o\u0161ki\u0107"
+  - Benedikt Valerian Ehinger
+  - Pedram Mouseli
+  - Johannes Algermissen
+  - Marta Topor
+  - "Jose P\xE9rez-Navarro"
+  - "Greta H\xE4berle"
+  - Melanie Steffi Schreiner
+  - Katrin Rothmaler
+  - Guiomar Niso
+  - Mariella Paul
+  publisher: Center for Open Science
+  date: '2022-06-17'
+  link: https://doi.org/gs9vbr
+  orcid: 0000-0003-3567-3881
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s41562-021-01269-4
+  title: A community-sourced glossary of open scholarship terms
+  authors:
+  - Sam Parsons
+  - "Fl\xE1vio Azevedo"
+  - Mahmoud M. Elsherif
+  - Samuel Guay
+  - Owen N. Shahim
+  - Gisela H. Govaart
+  - Emma Norris
+  - "Aoife O\u2019Mahony"
+  - Adam J. Parker
+  - Ana Todorovic
+  - Charlotte R. Pennington
+  - Elias Garcia-Pelegrin
+  - "Aleksandra Lazi\u0107"
+  - Olly Robertson
+  - Sara L. Middleton
+  - Beatrice Valentini
+  - Joanne McCuaig
+  - Bradley J. Baker
+  - Elizabeth Collins
+  - Adrien A. Fillon
+  - Tina B. Lonsdorf
+  - Michele C. Lim
+  - Norbert Vanek
+  - Marton Kovacs
+  - Timo B. Roettger
+  - Sonia Rishi
+  - Jacob F. Miranda
+  - Matt Jaquiery
+  - Suzanne L. K. Stewart
+  - Valeria Agostini
+  - Andrew J. Stewart
+  - Kamil Izydorczak
+  - Sarah Ashcroft-Jones
+  - Helena Hartmann
+  - Madeleine Ingham
+  - Yuki Yamada
+  - Martin R. Vasilev
+  - Filip Dechterenko
+  - Nihan Albayrak-Aydemir
+  - Yu-Fang Yang
+  - Annalise A. LaPlume
+  - Julia K. Wolska
+  - Emma L. Henderson
+  - Mirela Zaneva
+  - Benjamin G. Farrar
+  - Ross Mounce
+  - Tamara Kalandadze
+  - Wanyin Li
+  - Qinyu Xiao
+  - Robert M. Ross
+  - Siu Kit Yeung
+  - Meng Liu
+  - Micah L. Vandegrift
+  - Zoltan Kekecs
+  - Marta K. Topor
+  - Myriam A. Baum
+  - Emily A. Williams
+  - Asma A. Assaneea
+  - "Am\xE9lie Bret"
+  - Aidan G. Cashin
+  - Nick Ballou
+  - Tsvetomira Dumbalska
+  - Bettina M. J. Kern
+  - Claire R. Melia
+  - Beatrix Arendt
+  - Gerald H. Vineyard
+  - Jade S. Pickering
+  - Thomas R. Evans
+  - Catherine Laverty
+  - Eliza A. Woodward
+  - David Moreau
+  - Dominique G. Roche
+  - Eike M. Rinke
+  - Graham Reid
+  - Eduardo Garcia-Garzon
+  - Steven Verheyen
+  - Halil E. Kocalar
+  - Ashley R. Blake
+  - Jamie P. Cockcroft
+  - Leticia Micheli
+  - Brice Beffara Bret
+  - Zoe M. Flack
+  - Barnabas Szaszi
+  - Markus Weinmann
+  - Oscar Lecuona
+  - Birgit Schmidt
+  - William X. Ngiam
+  - Ana Barbosa Mendes
+  - Shannon Francis
+  - Brett J. Gall
+  - Mariella Paul
+  - Connor T. Keating
+  - Magdalena Grose-Hodge
+  - James E. Bartlett
+  - Bethan J. Iley
+  - Lisa Spitzer
+  - Madeleine Pownall
+  - Christopher J. Graham
+  - Tobias Wingen
+  - Jenny Terry
+  - Catia Margarida F. Oliveira
+  - Ryan A. Millager
+  - Kerry J. Fox
+  - Alaa AlDoh
+  - Alexander Hart
+  - Olmo R. Akker
+  - Gilad Feldman
+  - Dominik A. Kiersz
+  - Christina Pomareda
+  - Kai Krautter
+  - Ali H. Al-Hoorie
+  - Balazs Aczel
+  publisher: Nature Human Behaviour
+  date: '2022-03-01'
+  link: https://doi.org/gph75j
+  orcid: 0000-0003-3567-3881
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.31234/osf.io/nbvkc
+  title: Estimating the statistical power to detect set size effects in contralateral
+    delay activity
+  authors:
+  - William Xiang Quan Ngiam
+  - Kirsten C. S. Adam
+  - Colin Quirk
+  - Edward K. Vogel
+  - Ed Awh
+  publisher: Center for Open Science
+  date: '2020-12-16'
+  link: https://doi.org/gs9vbs
+  orcid: 0000-0003-3567-3881
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1037/xge0000649
+  title: "\u201CMemory compression\u201D effects in visual working memory are contingent\
+    \ on explicit long-term memory."
+  authors:
+  - William X. Q. Ngiam
+  - James A. Brissenden
+  - Edward Awh
+  publisher: 'Journal of Experimental Psychology: General'
+  date: '2019-08-01'
+  link: https://doi.org/ggvpq6
+  orcid: 0000-0003-3567-3881
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1037/XLM0000682
+  title: Visual working memory for letters varies with familiarity but not complexity.
+  authors:
+  - William X. Q. Ngiam
+  - Kimberley L. C. Khaw
+  - Alex O. Holcombe
+  - Patrick T. Goodbourn
+  publisher: 'Journal of Experimental Psychology: Learning, Memory, and Cognition'
+  date: '2019-10-01'
+  link: https://doi.org/gk4nrd
+  orcid: 0000-0003-3567-3881
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1371/JOURNAL.PONE.0203848
+  title: 'Relational encoding of objects in working memory: Changes detection performance
+    is better for violations in group relations'
+  authors:
+  - Joel E. Bateman
+  - William X. Q. Ngiam
+  - Damian P. Birney
+  publisher: PLOS ONE
+  date: '2018-09-11'
+  link: https://doi.org/gd7sv3
+  orcid: 0000-0003-3567-3881
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1371/journal.pcbi.1007128
@@ -92,9 +295,6 @@
   publisher: PLOS Computational Biology
   date: '2020-12-04'
   link: https://doi.org/c7np
-  orcid: 0000-0002-4655-3773
-  plugin: sources.py
-  file: sources.yaml
   type: paper
   description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
     do eiusmod tempor incididunt ut labore et dolore magna aliqua.
@@ -111,21 +311,8 @@
   - open science
   - collaboration
   repo: greenelab/meta-review
-- id: doi:10.1101/573782
-  title: Sequential compression of gene expression across dimensionalities and methods
-    reveals no single best method or dimensionality
-  authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
-  date: '2019-03-11'
-  link: https://doi.org/gfxjxf
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.csbj.2020.05.017
   title: Constructing knowledge graphs and their biomedical applications
   authors:
