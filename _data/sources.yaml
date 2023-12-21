@@ -1,23 +1,103 @@
-- id: doi:10.1371/journal.pcbi.1007128
+- id: doi:10.1037/xge0001479
   type: paper
-  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  date: 2020-12-4
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
+  description: With a novel 'conjunction whole-report' paradigm, we find that working memory is limited by object-based memories.
+  date: 2023-09-11
+  image: /images/conjunction_whole-report.png
   buttons:
-    - type: manubot
-      link: https://greenelab.github.io/meta-review/
-    - type: source
-      text: Manuscript Source
-      link: https://github.com/greenelab/meta-review
+    - type: preprint
+      text: Preprint
+      link: https://osf.io/preprints/psyarxiv/mc5p9
     - type: website
-      link: http://manubot.org/
+      text: Journal Page
+      link: https://doi.org/10.1037/xge0001479
+    - type: data
+      text: Data and Code
+      link: https://osf.io/wjr7u/
   tags:
-    - open science
-    - collaboration
-  repo: greenelab/meta-review
+    - whole-report
+    - computational modeling
 
-- id: doi:10.1016/j.csbj.2020.05.017
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
+- id: doi:10.3758/s13423-023-02356-5
+  type: paper
+  description: A review comparing and contrasting current theories and models of visual working memory, leading to a 'theory map'.
+  date: 2023-08-28
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.3758%2Fs13423-023-02356-5/MediaObjects/13423_2023_2356_Fig1_HTML.png?as=webp
+  buttons:
+    - type: preprint
+      text: Preprint
+      link: https://psyarxiv.com/g8erx
+    - type: website
+      text: Journal Page
+      link: https://link.springer.com/article/10.3758/s13423-023-02356-5
+  tags:
+    - theory map
+    - pointers
 
-- id: doi:10.7554/eLife.32822
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+- id: doi:10.3758/s13414-022-02631-y
+  type: paper
+  description: We develop a paradigm that produces distinct patterns of responses produced by imprecise memories and by guesses. We find clear evidence for guessing, in line with item limit models of visual working memory.
+  date: 2022-12-20
+  image: /images/guess_bands.png
+  buttons:
+    - type: preprint
+      text: Preprint
+      link: https://psyarxiv.com/bkdya
+    - type: website
+      text: Journal Page
+      link: https://doi.org/10.3758/s13414-022-02631-y
+    - type: data
+      text: Data and Code
+      link: https://osf.io/64rdq/
+  tags:
+    - guesses
+    - whole-report
+
+- id: doi:10.1111/psyp.13791
+  type: paper
+  description: A downsampling analysis of two large datasets measuring the contralateral delay activity, estimating the statistical power for detecting the component and set-size effects.
+  date: 2021-02-10
+  buttons:
+    - type: preprint
+      text: Preprint
+      link: https://psyarxiv.com/nbvkc
+    - type: website
+      text: Journal Page
+      link: https://onlinelibrary.wiley.com/doi/10.1111/psyp.13791
+    - type: app
+      text: Online App
+      link: https://williamngiam.shinyapps.io/CDAPower/
+  tags:
+    - contralateral delay activity
+  
+- id: doi:10.1037/xge0000649
+  type: paper
+  description: When to-be-remembered displays contain statistical regularities, we can recall more items overall. However, this is contingent on explicit awareness of the regularities, supporting a long-term memory 'chunking' account.
+  date: 2019-08-01
+  buttons:
+    - type: preprint
+      link: https://awhvogellab.files.wordpress.com/2019/06/ngiam-brissenden-and-awh-2019-preprint.pdf
+    - type: website
+      text: Journal Page
+      link: https://psycnet.apa.org/record/2019-42672-001
+    - type: data
+      text: Data and Code
+      link: https://osf.io/9c4rj/
+  tags:
+    - chunking
+    - long-term memory
+    - associative learning
+  
+- id: doi:10.1037/XLM0000682
+  type: paper
+  description: Visual working memory is better for familiar letters compared to unfamiliar characters, including artifical characters matched in stimulus complexity.
+  date: 2019-10-01
+  buttons: 
+    - type: preprint
+      link: https://psyarxiv.com/cxkw5
+    - type: website
+      text: Journal Page
+      link: https://psycnet.apa.org/record/2018-64925-001
+    - type: data
+      text: Data and Code
+      link: https://osf.io/4by2f/
+ 

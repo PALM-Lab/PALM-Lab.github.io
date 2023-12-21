@@ -1,18 +1,18 @@
 # site properties and page defaults
-title: PALM-Lab
+title: PALM Lab
 subtitle: 
-description: An engaging 1-3 sentence description of your lab.
+description: The Perception, Attention and Memory Lab at the University of Adelaide. 
 header: images/background.jpg
 footer: images/background.jpg
 
 # site social media and other links
 links:
-  email: contact@PALM-Lab.com
-  orcid: 0000-0001-8713-9213
-  google-scholar: ETJoidYAAAAJ
+  email: 
+  orcid: 
+  google-scholar: EW1iZEMAAAAJ
   github: PALM-Lab
-  twitter: PALM-Lab
-  youtube: PALM-Lab
+  twitter: 
+  youtube: 
 
 ### jekyll settings
 
