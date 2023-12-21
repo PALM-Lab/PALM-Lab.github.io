@@ -7,21 +7,50 @@
   - Krystian B. Loetscher
   - Edward Awh
   publisher: 'Journal of Experimental Psychology: General'
-  date: '2023-09-11'
+  date: ''
   link: https://doi.org/gs9vbk
-  orcid: 0000-0003-3567-3881
-  plugin: orcid.py
-  file: orcid.yaml
+  type: paper
+  description: With a novel 'conjunction whole-report' paradigm, we find that working
+    memory is limited by object-based memories.
+  image: /images/conjunction_whole-report.png
+  buttons:
+  - type: preprint
+    text: Preprint
+    link: https://osf.io/preprints/psyarxiv/mc5p9
+  - type: website
+    text: Journal Page
+    link: https://doi.org/10.1037/xge0001479
+  - type: data
+    text: Data and Code
+    link: https://osf.io/wjr7u/
+  tags:
+  - whole-report
+  - computational modeling
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.3758/s13423-023-02356-5
   title: Mapping visual working memory models to a theoretical framework
   authors:
   - William Xiang Quan Ngiam
   publisher: Psychonomic Bulletin &amp; Review
-  date: '2023-08-28'
+  date: ''
   link: https://doi.org/gsnz35
-  orcid: 0000-0003-3567-3881
-  plugin: orcid.py
-  file: orcid.yaml
+  type: paper
+  description: A review comparing and contrasting current theories and models of visual
+    working memory, leading to a 'theory map'.
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.3758%2Fs13423-023-02356-5/MediaObjects/13423_2023_2356_Fig1_HTML.png?as=webp
+  buttons:
+  - type: preprint
+    text: Preprint
+    link: https://psyarxiv.com/g8erx
+  - type: website
+    text: Journal Page
+    link: https://link.springer.com/article/10.3758/s13423-023-02356-5
+  tags:
+  - theory map
+  - pointers
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.3758/s13414-022-02631-y
   title: 'Distinguishing guesses from fuzzy memories: Further evidence for item limits
     in visual working memory'
@@ -31,218 +60,58 @@
   - Kirsten C. S. Adam
   - Edward Awh
   publisher: Attention, Perception, &amp; Psychophysics
-  date: '2022-12-20'
+  date: ''
   link: https://doi.org/gs9vbm
-  orcid: 0000-0003-3567-3881
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.31234/osf.io/g8erx
-  title: Mapping visual working memory models to a theoretical framework
+  type: paper
+  description: We develop a paradigm that produces distinct patterns of responses
+    produced by imprecise memories and by guesses. We find clear evidence for guessing,
+    in line with item limit models of visual working memory.
+  image: /images/guess_bands.png
+  buttons:
+  - type: preprint
+    text: Preprint
+    link: https://psyarxiv.com/bkdya
+  - type: website
+    text: Journal Page
+    link: https://doi.org/10.3758/s13414-022-02631-y
+  - type: data
+    text: Data and Code
+    link: https://osf.io/64rdq/
+  tags:
+  - guesses
+  - whole-report
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1111/psyp.13791
+  title: "Estimating the statistical power to detect set\u2010size effects in contralateral\
+    \ delay activity"
   authors:
-  - William Xiang Quan Ngiam
-  publisher: Center for Open Science
-  date: '2023-03-17'
-  link: https://doi.org/gs9vbn
-  orcid: 0000-0003-3567-3881
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.31234/osf.io/mc5p9
-  title: Object-based encoding constrains storage in visual working memory
-  authors:
-  - William Xiang Quan Ngiam
-  - Krystian Loetscher
-  - Ed Awh
-  publisher: Center for Open Science
-  date: '2023-03-10'
-  link: https://doi.org/gs9vbp
-  orcid: 0000-0003-3567-3881
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.31234/osf.io/gh5ps
-  title: Learning and retention of new symbolic representations of number
-  authors:
-  - Patrick T. Goodbourn
-  - Evan James Livesey
-  - William Xiang Quan Ngiam
-  - Alex O. Holcombe
-  - Jason Forte
-  publisher: Center for Open Science
-  date: '2022-09-27'
-  link: https://doi.org/gs9vbq
-  orcid: 0000-0003-3567-3881
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.31222/osf.io/4nvpt
-  title: EEG ERP Preregistration Template
-  authors:
-  - Gisela Hanna Govaart
-  - Antonio Schettino
-  - Saskia Helbling
-  - David Marc Anton Mehler
-  - William Xiang Quan Ngiam
-  - David Moreau
-  - Francesco Chiossi
-  - Anthony Paul Zanesco
-  - Yu-Fang Yang
-  - Remi Gau
-  - James Edward Bartlett
-  - "Jos\xE9 C. Garc\xEDa Alanis"
-  - Jennifer Nadine Gutsell
-  - "Melis \xC7etin\xE7elik"
-  - Yuri G. Pavlov
-  - "An\u0111ela \u0160o\u0161ki\u0107"
-  - Benedikt Valerian Ehinger
-  - Pedram Mouseli
-  - Johannes Algermissen
-  - Marta Topor
-  - "Jose P\xE9rez-Navarro"
-  - "Greta H\xE4berle"
-  - Melanie Steffi Schreiner
-  - Katrin Rothmaler
-  - Guiomar Niso
-  - Mariella Paul
-  publisher: Center for Open Science
-  date: '2022-06-17'
-  link: https://doi.org/gs9vbr
-  orcid: 0000-0003-3567-3881
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1038/s41562-021-01269-4
-  title: A community-sourced glossary of open scholarship terms
-  authors:
-  - Sam Parsons
-  - "Fl\xE1vio Azevedo"
-  - Mahmoud M. Elsherif
-  - Samuel Guay
-  - Owen N. Shahim
-  - Gisela H. Govaart
-  - Emma Norris
-  - "Aoife O\u2019Mahony"
-  - Adam J. Parker
-  - Ana Todorovic
-  - Charlotte R. Pennington
-  - Elias Garcia-Pelegrin
-  - "Aleksandra Lazi\u0107"
-  - Olly Robertson
-  - Sara L. Middleton
-  - Beatrice Valentini
-  - Joanne McCuaig
-  - Bradley J. Baker
-  - Elizabeth Collins
-  - Adrien A. Fillon
-  - Tina B. Lonsdorf
-  - Michele C. Lim
-  - Norbert Vanek
-  - Marton Kovacs
-  - Timo B. Roettger
-  - Sonia Rishi
-  - Jacob F. Miranda
-  - Matt Jaquiery
-  - Suzanne L. K. Stewart
-  - Valeria Agostini
-  - Andrew J. Stewart
-  - Kamil Izydorczak
-  - Sarah Ashcroft-Jones
-  - Helena Hartmann
-  - Madeleine Ingham
-  - Yuki Yamada
-  - Martin R. Vasilev
-  - Filip Dechterenko
-  - Nihan Albayrak-Aydemir
-  - Yu-Fang Yang
-  - Annalise A. LaPlume
-  - Julia K. Wolska
-  - Emma L. Henderson
-  - Mirela Zaneva
-  - Benjamin G. Farrar
-  - Ross Mounce
-  - Tamara Kalandadze
-  - Wanyin Li
-  - Qinyu Xiao
-  - Robert M. Ross
-  - Siu Kit Yeung
-  - Meng Liu
-  - Micah L. Vandegrift
-  - Zoltan Kekecs
-  - Marta K. Topor
-  - Myriam A. Baum
-  - Emily A. Williams
-  - Asma A. Assaneea
-  - "Am\xE9lie Bret"
-  - Aidan G. Cashin
-  - Nick Ballou
-  - Tsvetomira Dumbalska
-  - Bettina M. J. Kern
-  - Claire R. Melia
-  - Beatrix Arendt
-  - Gerald H. Vineyard
-  - Jade S. Pickering
-  - Thomas R. Evans
-  - Catherine Laverty
-  - Eliza A. Woodward
-  - David Moreau
-  - Dominique G. Roche
-  - Eike M. Rinke
-  - Graham Reid
-  - Eduardo Garcia-Garzon
-  - Steven Verheyen
-  - Halil E. Kocalar
-  - Ashley R. Blake
-  - Jamie P. Cockcroft
-  - Leticia Micheli
-  - Brice Beffara Bret
-  - Zoe M. Flack
-  - Barnabas Szaszi
-  - Markus Weinmann
-  - Oscar Lecuona
-  - Birgit Schmidt
-  - William X. Ngiam
-  - Ana Barbosa Mendes
-  - Shannon Francis
-  - Brett J. Gall
-  - Mariella Paul
-  - Connor T. Keating
-  - Magdalena Grose-Hodge
-  - James E. Bartlett
-  - Bethan J. Iley
-  - Lisa Spitzer
-  - Madeleine Pownall
-  - Christopher J. Graham
-  - Tobias Wingen
-  - Jenny Terry
-  - Catia Margarida F. Oliveira
-  - Ryan A. Millager
-  - Kerry J. Fox
-  - Alaa AlDoh
-  - Alexander Hart
-  - Olmo R. Akker
-  - Gilad Feldman
-  - Dominik A. Kiersz
-  - Christina Pomareda
-  - Kai Krautter
-  - Ali H. Al-Hoorie
-  - Balazs Aczel
-  publisher: Nature Human Behaviour
-  date: '2022-03-01'
-  link: https://doi.org/gph75j
-  orcid: 0000-0003-3567-3881
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.31234/osf.io/nbvkc
-  title: Estimating the statistical power to detect set size effects in contralateral
-    delay activity
-  authors:
-  - William Xiang Quan Ngiam
+  - William X. Q. Ngiam
   - Kirsten C. S. Adam
   - Colin Quirk
   - Edward K. Vogel
-  - Ed Awh
-  publisher: Center for Open Science
-  date: '2020-12-16'
-  link: https://doi.org/gs9vbs
-  orcid: 0000-0003-3567-3881
-  plugin: orcid.py
-  file: orcid.yaml
+  - Edward Awh
+  publisher: Psychophysiology
+  date: ''
+  link: https://doi.org/gr9cj5
+  type: paper
+  description: A downsampling analysis of two large datasets measuring the contralateral
+    delay activity, estimating the statistical power for detecting the component and
+    set-size effects.
+  buttons:
+  - type: preprint
+    text: Preprint
+    link: https://psyarxiv.com/nbvkc
+  - type: website
+    text: Journal Page
+    link: https://onlinelibrary.wiley.com/doi/10.1111/psyp.13791
+  - type: app
+    text: Online App
+    link: https://williamngiam.shinyapps.io/CDAPower/
+  tags:
+  - contralateral delay activity
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1037/xge0000649
   title: "\u201CMemory compression\u201D effects in visual working memory are contingent\
     \ on explicit long-term memory."
@@ -251,11 +120,27 @@
   - James A. Brissenden
   - Edward Awh
   publisher: 'Journal of Experimental Psychology: General'
-  date: '2019-08-01'
+  date: ''
   link: https://doi.org/ggvpq6
-  orcid: 0000-0003-3567-3881
-  plugin: orcid.py
-  file: orcid.yaml
+  type: paper
+  description: When to-be-remembered displays contain statistical regularities, we
+    can recall more items overall. However, this is contingent on explicit awareness
+    of the regularities, supporting a long-term memory 'chunking' account.
+  buttons:
+  - type: preprint
+    link: https://awhvogellab.files.wordpress.com/2019/06/ngiam-brissenden-and-awh-2019-preprint.pdf
+  - type: website
+    text: Journal Page
+    link: https://psycnet.apa.org/record/2019-42672-001
+  - type: data
+    text: Data and Code
+    link: https://osf.io/9c4rj/
+  tags:
+  - chunking
+  - long-term memory
+  - associative learning
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1037/XLM0000682
   title: Visual working memory for letters varies with familiarity but not complexity.
   authors:
@@ -264,79 +149,19 @@
   - Alex O. Holcombe
   - Patrick T. Goodbourn
   publisher: 'Journal of Experimental Psychology: Learning, Memory, and Cognition'
-  date: '2019-10-01'
+  date: ''
   link: https://doi.org/gk4nrd
-  orcid: 0000-0003-3567-3881
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1371/JOURNAL.PONE.0203848
-  title: 'Relational encoding of objects in working memory: Changes detection performance
-    is better for violations in group relations'
-  authors:
-  - Joel E. Bateman
-  - William X. Q. Ngiam
-  - Damian P. Birney
-  publisher: PLOS ONE
-  date: '2018-09-11'
-  link: https://doi.org/gd7sv3
-  orcid: 0000-0003-3567-3881
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1371/journal.pcbi.1007128
-  title: Open collaborative writing with Manubot
-  authors:
-  - Daniel S. Himmelstein
-  - Vincent Rubinetti
-  - David R. Slochower
-  - Dongbo Hu
-  - Venkat S. Malladi
-  - Casey S. Greene
-  - Anthony Gitter
-  publisher: PLOS Computational Biology
-  date: '2020-12-04'
-  link: https://doi.org/c7np
   type: paper
-  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
-    do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
+  description: Visual working memory is better for familiar letters compared to unfamiliar
+    characters, including artifical characters matched in stimulus complexity.
   buttons:
-  - type: manubot
-    link: https://greenelab.github.io/meta-review/
-  - type: source
-    text: Manuscript Source
-    link: https://github.com/greenelab/meta-review
+  - type: preprint
+    link: https://psyarxiv.com/cxkw5
   - type: website
-    link: http://manubot.org/
-  tags:
-  - open science
-  - collaboration
-  repo: greenelab/meta-review
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1016/j.csbj.2020.05.017
-  title: Constructing knowledge graphs and their biomedical applications
-  authors:
-  - David N. Nicholson
-  - Casey S. Greene
-  publisher: Computational and Structural Biotechnology Journal
-  date: '2020-01-01'
-  link: https://doi.org/gg7m48
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.7554/eLife.32822
-  title: Sci-Hub provides access to nearly all scholarly literature
-  authors:
-  - Daniel S Himmelstein
-  - Ariel Rodriguez Romero
-  - Jacob G Levernier
-  - Thomas Anthony Munro
-  - Stephen Reid McLaughlin
-  - Bastian Greshake Tzovaras
-  - Casey S Greene
-  publisher: eLife
-  date: '2018-03-01'
-  link: https://doi.org/ckcj
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+    text: Journal Page
+    link: https://psycnet.apa.org/record/2018-64925-001
+  - type: data
+    text: Data and Code
+    link: https://osf.io/4by2f/
   plugin: sources.py
   file: sources.yaml
