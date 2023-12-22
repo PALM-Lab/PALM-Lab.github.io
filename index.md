@@ -79,3 +79,9 @@ Meet our team of researchers!
   title="Our Team"
   text=text
 %}
+
+## Acknowledgement of Land
+
+The members of the PALM Lab wishes to acknowledge the Kaurna people, the original custodians of the Adelaide Plains and the land on which we currently reside and conduct our work, and on which the University of Adelaide's campuses at North Terrace, Waite, Thebarton and Roseworthy are built.
+
+<a href="https://www.freepik.com/free-photo/futuristic-computer-generated-blue-fractal-symbol-generative-ai_40967283.htm#page=14&query=working%20memory%20banner%20brain&position=25&from_view=search&track=ais&uuid=142171a4-d07d-469f-a7dc-60f37d10544d">Background Image by vecstock on Freepik</a> 
