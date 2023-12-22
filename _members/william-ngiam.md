@@ -1,10 +1,10 @@
 ---
 name: William Ngiam
-image: images/ngiam.jpg
+image: images/members/ngiam.jpg
 role: pi
 aliases:
-  - W. Ngiam
-  - WXQ Ngiam
+  - William Xiang Quan Ngiam
+  - William X. Q. Ngiam
 links:
   home-page: https://williamngiam.github.io
   orcid: 0000-0003-3567-3881

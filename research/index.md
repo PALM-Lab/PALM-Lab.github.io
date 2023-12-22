@@ -1,13 +1,13 @@
 ---
-title: Research
+title: Publications
 nav:
-  order: 1
-  tooltip: Published works
+  order: 2
+  tooltip: Publications
 ---
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Research
 
-Check out the PALM Lab's research below:
+Check out the PALM Lab's publications below:
 
 {% include section.html %}
 
@@ -17,7 +17,7 @@ Check out the PALM Lab's research below:
 
 {% include citation.html lookup="Mapping visual working memory models to a theoretical framework" style="rich" %}
 
-{% include citation.html lookup="Memory compression effects in visual working memory are contingent on explicit long-term memory" style="rich" %}
+{% include citation.html lookup="Distinguishing guesses from fuzzy memories: Further evidence for item limits in visual working memory" style="rich" %}
 
 {% include section.html %}
 

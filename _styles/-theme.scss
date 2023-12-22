@@ -3,8 +3,8 @@
 
 // colors
 [data-dark="false"] {
-  --primary: #0ea5e9;
-  --secondary: #7dd3fc;
+  --primary: #80ed99;
+  --secondary: #22577a;
   --text: #000000;
   --background: #ffffff;
   --background-alt: #fafafa;
@@ -13,8 +13,8 @@
   --overlay: #00000020;
 }
 [data-dark="true"] {
-  --primary: #0ea5e9;
-  --secondary: #075985;
+  --primary: #80ed99;
+  --secondary: #57ccc0;
   --text: #ffffff;
   --background: #181818;
   --background-alt: #1c1c1c;
@@ -25,9 +25,9 @@
 
 :root {
   // font families
-  --title: "Barlow", sans-serif;
-  --heading: "Barlow", sans-serif;
-  --body: "Barlow", sans-serif;
+  --title: "Rethink Sans", sans-serif;
+  --heading: "Rethink Sans", sans-serif;
+  --body: "Rethink Sans", sans-serif;
   --code: "Roboto Mono", monospace;
 
   // font sizes

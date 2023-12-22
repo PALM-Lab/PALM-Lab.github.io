@@ -1,9 +1,9 @@
 ---
 ---
 
-# PALM-Lab's Website
+# Welcome!
 
-An engaging 1-3 sentence description of your lab.
+This is the website for the **P**erception, **A**ttention, **L**earning and **M**emory Lab in the School of Psychology at the University of Adelaide. We are a cognitive psychology and neuroscience lab studying how humans store and hold visual information in mind, headed by Dr William Ngiam.
 
 {% include section.html %}
 
@@ -11,7 +11,7 @@ An engaging 1-3 sentence description of your lab.
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Our research publications with the associated preprint, data and code here:
 
 {%
   include button.html
@@ -28,13 +28,13 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   include feature.html
   image="images/photo.jpg"
   link="research"
-  title="Our Research"
+  title="Our Publications"
   text=text
 %}
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Current research projects in the lab here:
 
 {%
   include button.html
@@ -59,7 +59,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Meet our team of researchers!
 
 {%
   include button.html
