@@ -82,11 +82,11 @@ Learn more about the members of the PALM Lab!
 
 {% include section.html %}
 
-<!--- ## Recent updates
+<!-- ## Recent updates
 
 **June 2024:** William becomes a Lecturer at the University of Adelaide and starts the PALM Lab! 
 
-{% include section.html %} --->
+{% include section.html %} -->
 
 ## Acknowledgement of Land
 
