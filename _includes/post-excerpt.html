@@ -22,14 +22,9 @@
     | regex_scan: "<!-- excerpt start -->(.*)<!-- excerpt end -->", true
     | default: post.excerpt
     | default: ""
-    {% comment %}
     | strip_html
-    {% endcomment %}
   %}
   {% assign search = post.content
-  {% comment %}
-  <!---  | strip_html --->
-  {% endcomment %}
     | strip_newlines
     | regex_strip
   %}
