@@ -26,6 +26,7 @@
   %}
   {% assign search = post.content
     | strip_newlines
+    | strip_html
     | regex_strip
   %}
   <p data-search="{{ search }}">
