@@ -31,7 +31,7 @@ A recently developed decoder that applies machine learning classification to neu
 
 {% include section.html %}
 
-<!-- {% include tags.html tags="publication, resource, website" %}
+<!--- {% include tags.html tags="publication, resource, website" %}
 
 {% include search-info.html %}
 
@@ -45,4 +45,4 @@ A recently developed decoder that applies machine learning classification to neu
 
 ## More
 
-{% include list.html component="card" data="projects" filters="group: " style="small" %} -->
+{% include list.html component="card" data="projects" filters="group: " style="small" %} --->
