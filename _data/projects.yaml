@@ -1,9 +1,9 @@
-- title: Cool Dataset
-  subtitle: a subtitle
+- title: Chunking in working memory
+  subtitle: How does learning change how we attend to and store information?
   group: featured
   image: images/photo.jpg
   link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  description: There is a growing appreciation that our previous learning and experience can shape how we encode and represent information in mind. Our long-term memory system can readily shape how we attend to incoming visual information, at surprisingly early stages of visual processing. In particular, we are interested in how different types of learning may improve the efficiency of the visual working memory system, whether this is achieved by circumventing sharp capacity limits.
   repo: greenelab/lab-website-template
   tags:
     - resource
