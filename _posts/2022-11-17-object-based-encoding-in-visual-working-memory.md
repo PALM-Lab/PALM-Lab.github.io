@@ -1,5 +1,5 @@
 ---
-title: Object-based encoding in visual working memory
+title: Object based encoding in visual working memory
 author: william-ngiam
 tags:
     - talk

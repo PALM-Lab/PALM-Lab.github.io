@@ -1,5 +1,5 @@
 ---
-title: Evidence for object-based encoding into visual working memory
+title: Evidence for object based encoding into visual working memory
 author: william-ngiam
 tags:
     - poster
