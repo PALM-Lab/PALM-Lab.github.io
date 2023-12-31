@@ -1,5 +1,8 @@
 - id: doi:10.1037/xge0001479
   date: 2023-09-11
+
+- id: doi:10.1037/xge0001479
+  date: 2023-09-11
   type: paper
   description: Using a new 'conjunction whole-report' paradigm, we find that visual working memory is limited by object-based encoding, but that features can also be independently lost from the memory for an item. We developed a computational model that captures both feature-based and object-based effects.
   image: /images/conjunction_whole-report.png
