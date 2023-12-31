@@ -6,9 +6,8 @@ tags:
     - psychonomics
     - long-term memory
     - mvLoad
-excerpt: Poster presented by William Ngiam at OPAM 2023 on associative learning and working memory.
 ---
 
-Conference poster presented at OPAM 2023.
+Poster presented by William Ngiam at OPAM 2023 on associative learning and working memory.
 
-[View PDF](https://palm-lab.github.io/images/presentations/OPAM2023.pdf)
+[View PDF](https://palm-lab.github.io/images/posters/OPAM2023.pdf)

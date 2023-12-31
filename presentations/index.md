@@ -1,7 +1,7 @@
 ---
 title: Presentations
 nav:
-  order: 4
+  order: 7
   tooltip: Talk slides and posters
 ---
 

@@ -10,4 +10,4 @@ excerpt: Poster presented by William Ngiam at VSS 2023 examining object-based en
 
 Poster presented by William Ngiam at the Vision Science Society Annual Meeting 2023.
 
-[View PDF](https://palm-lab.github.io/images/presentations/VSS2023.pdf)
+[View PDF](https://palm-lab.github.io/images/posters/VSS2023.pdf)
