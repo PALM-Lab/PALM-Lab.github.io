@@ -1,5 +1,5 @@
 ---
-title: Example post 3
+title: blah di di blah
 author: john-doe
 tags: biology, medicine
 ---
