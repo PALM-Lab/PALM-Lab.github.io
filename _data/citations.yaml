@@ -7,10 +7,8 @@
   - Krystian B. Loetscher
   - Edward Awh
   publisher: 'Journal of Experimental Psychology: General'
-  date: ''
+  date: '2023-09-11'
   link: https://doi.org/gs9vbk
-  plugin: sources.py
-  file: sources.yaml
   type: paper
   description: Using a new 'conjunction whole-report' paradigm, we find that visual
     working memory is limited by object-based encoding, but that features can also
@@ -31,12 +29,14 @@
   - whole-report
   - computational modeling
   - capacity limits
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.3758/s13423-023-02356-5
   title: Mapping visual working memory models to a theoretical framework
   authors:
   - William X. Q. Ngiam
   publisher: Psychonomic Bulletin &amp; Review
-  date: ''
+  date: '2023-08-28'
   link: https://doi.org/gsnz35
   type: paper
   description: A review comparing and contrasting current theories and models of visual
@@ -65,7 +65,7 @@
   - Kirsten C. S. Adam
   - Edward Awh
   publisher: Attention, Perception, &amp; Psychophysics
-  date: ''
+  date: '2022-12-20'
   link: https://doi.org/gs9vbm
   type: paper
   description: We developed a paradigm that leads to distinct patterns of responses
@@ -99,7 +99,7 @@
   - Edward K. Vogel
   - Edward Awh
   publisher: Psychophysiology
-  date: ''
+  date: '2021-02-10'
   link: https://doi.org/gr9cj5
   type: paper
   description: A downsampling analysis of two large datasets measuring the contralateral
@@ -129,7 +129,7 @@
   - James A. Brissenden
   - Edward Awh
   publisher: 'Journal of Experimental Psychology: General'
-  date: ''
+  date: '2019-08-01'
   link: https://doi.org/ggvpq6
   type: paper
   description: When to-be-remembered displays contain statistical regularities, we
@@ -159,7 +159,7 @@
   - Alex O. Holcombe
   - Patrick T. Goodbourn
   publisher: 'Journal of Experimental Psychology: Learning, Memory, and Cognition'
-  date: ''
+  date: '2019-10-01'
   link: https://doi.org/gk4nrd
   type: paper
   description: Visual working memory is better for familiar letters compared to unfamiliar
