@@ -1,8 +1,5 @@
 - id: doi:10.1037/xge0001479
-  date: 2023-09-11
-
-- id: doi:10.1037/xge0001479
-  date: 2023-09-11
+  date: '2023-09-11'
   type: paper
   description: Using a new 'conjunction whole-report' paradigm, we find that visual working memory is limited by object-based encoding, but that features can also be independently lost from the memory for an item. We developed a computational model that captures both feature-based and object-based effects.
   image: /images/conjunction_whole-report.png
@@ -24,7 +21,7 @@
 - id: doi:10.3758/s13423-023-02356-5
   authors:
     - William X. Q. Ngiam
-  date: 2023-08-28
+  date: '2023-08-28'
   type: paper
   description: A review comparing and contrasting current theories and models of visual working memory, leading to a 'theory map'. The hope is that the theory map provides a common space to better discuss various empirical phenomena and move towards a model-based approach to research visual working memory.
   image: https://media.springernature.com/full/springer-static/image/art%3A10.3758%2Fs13423-023-02356-5/MediaObjects/13423_2023_2356_Fig1_HTML.png?as=webp
@@ -40,7 +37,7 @@
     - pointers
 
 - id: doi:10.3758/s13414-022-02631-y
-  date: 2022-12-20
+  date: '2022-12-20'
   type: paper
   description: We developed a paradigm that leads to distinct patterns of responses produced by imprecise memories, and produced by guesses. We find clear evidence for guessing, in line with the notion of an item limit in visual working memory, but also suggest a resource-based model that can explain the observed results.
   image: /images/guess_bands.png
@@ -60,7 +57,7 @@
     - capacity limits
 
 - id: doi:10.1111/psyp.13791
-  date: 2021-02-10
+  date: '2021-02-10'
   type: paper
   description: A downsampling analysis of two large datasets measuring the contralateral delay activity (CDA), estimating the statistical power for detecting the presence of the CDA and its set-size effects. We provide an app that can estimate the statistical power for a given number of trials and subjects.
   buttons:
@@ -78,7 +75,7 @@
     - statistical power
   
 - id: doi:10.1037/xge0000649
-  date: 2019-08-01
+  date: '2019-08-01'
   type: paper
   description: When to-be-remembered displays contain statistical regularities, we can recall more items overall. However, this is contingent on subjects having explicit awareness of the regularities, supporting a long-term memory 'chunking' account.
   buttons:
@@ -96,7 +93,7 @@
     - associative learning
   
 - id: doi:10.1037/XLM0000682
-  date: 2019-10-01
+  date: '2019-10-01'
   type: paper
   description: Visual working memory is better for familiar letters compared to unfamiliar characters, including artifical characters matched in stimulus complexity. This suggests learned experience can benefit the encoding of visual information.
   buttons: 
