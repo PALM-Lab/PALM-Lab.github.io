@@ -15,7 +15,7 @@ The PALM Lab studies our visual attention and working memory systems by linking 
 
 {% include section.html %}
 
-# {% include icon.html icon="fa-solid fa-wrench" %} Research Aims
+# {% include icon.html icon="fa-solid fa-wrench" %} Research Questions
 
 {% include section.html %}
 
@@ -37,13 +37,11 @@ A recently developed decoder that applies machine learning classification to neu
 
 {% include section.html %}
 
+## Featured Projects
+
 {% include tags.html tags="publication, resource, website" %}
 
 {% include search-info.html %}
-
-{% include section.html %}
-
-## Featured Projects
 
 {% include list.html component="card" data="projects" filters="group: featured" %}
 

@@ -12,8 +12,8 @@ Please feel free to reach out to us about anything regarding the PALM Lab using 
 {%
   include button.html
   type="email"
-  text="wngiam@uchicago.edu"
-  link="wngiam@uchicago.edu"
+  text="william.ngiam@adelaide.edu.au"
+  link="william.ngiam@adelaide.edu.au"
 %}
 <!-- {%
   include button.html
@@ -28,7 +28,7 @@ Please feel free to reach out to us about anything regarding the PALM Lab using 
   link="https://maps.app.goo.gl/kTkw41dMzQ6ExrKn9"
 %}
 
-{% include section.html %}
+{% include section.html background="images/background.jpg" dark=true %}
 
 <!-- {% capture col1 %}
 
@@ -72,4 +72,4 @@ consectetur adipiscing elit
 sed do eiusmod tempor
 {% endcapture %}
 
-{% include cols.html col1=col1 col2=col2 col3=col3 %} -->
+{% include cols.html col1=col1 col2=col2 col3=col3 %}
