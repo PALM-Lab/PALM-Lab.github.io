@@ -1,47 +1,37 @@
-- title: Chunking in working memory
+- title: The binding problem
+  subtitle: How do we bind the various features of an object in working memory?
+  group: featured
+  image: images/conjunction_whole-report.png
+  link: https://williamngiam.github.io/files/VSS2022.pdf
+  description: The visual system can readily recognize and remember an object, rapidly binding its features (such as color, shape, orientation, etc.) into a single representation. It is not yet known how exactly this binding occurs. It is likely that the binding mechanism is a defining bottleneck of the visual processing hierarchy. We hope to make progress on "the binding problem" by using a novel whole-report task and building computational models of the object-based binding mechanism.
+  repo: 
+  tags:
+    - feature binding
+    - pointers
+    - whole-report
+
+- title: Learning and working memory
   subtitle: How does learning change how we attend to and store information?
   group: featured
-  image: images/photo.jpg
-  link: https://github.com/
+  image: images/mvChunks.png
+  link: https://williamngiam.github.io/files/OPAM2023.pdf
   description: There is a growing appreciation that our previous learning and experience can shape how we encode and represent information in mind. Our long-term memory system can readily shape how we attend to incoming visual information, at surprisingly early stages of visual processing. In particular, we are interested in how different types of learning may improve the efficiency of the visual working memory system, whether this is achieved by circumventing sharp capacity limits.
-  repo: greenelab/lab-website-template
+  repo: 
   tags:
-    - resource
+    - learning
+    - chunking
+    - EEG
+    - multivariate decoding
 
-- title: Cool Package
-  subtitle: a subtitle
-  group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+- title: Attentional tracking and visual working memory
+  subtitle: How does the motion of an object influence neural measures of working memory?
+  image: images/projects/boston_dynamics.gif
+  link: https://williamngiam.github.io/files/CNS2024.pdf
+  description: Our visual system can track multiple moving objects quite well, but we are much less capable at when remembering the features of those moving objects. We hope to understand how our attentional system and the working memory interact, especially through the use of multivariate decoding.
+  repo: 
   tags:
-    - resource
-
-- title: Cool Tutorial
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - resource
-    - publication
-
-- title: Cool Web App
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - software
-
-- title: Cool Web Server
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - software
+    - tracking
+    - attention
+    - EEG
+    - multivariate decoding
+    - pointers

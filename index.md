@@ -94,6 +94,6 @@ The members of the PALM Lab wishes to acknowledge the Kaurna people, the origina
 
 {% include section.html %}
 
-The PALM Lab's logo was inspired by [Tailor Brands's Logo Maker](https://www.tailorbrands.com/logo-maker) and uses vector iamges of palm trees by <a href="https://www.freepik.com/free-vector/set-plant-tree-with-its-silhouette_9180852.htm#query=palm%20tree&position=13&from_view=keyword&track=ais&uuid=29b149a6-8653-4b2d-8d80-e2069c41792f">brgfx on Freepik</a>.
+The PALM Lab's logo was inspired by [Tailor Brands's Logo Maker](https://www.tailorbrands.com/logo-maker) and uses vector images of palm trees by <a href="https://www.freepik.com/free-vector/set-plant-tree-with-its-silhouette_9180852.htm#query=palm%20tree&position=13&from_view=keyword&track=ais&uuid=29b149a6-8653-4b2d-8d80-e2069c41792f">brgfx on Freepik</a>.
 
 <a href="https://www.freepik.com/free-photo/futuristic-computer-generated-blue-fractal-symbol-generative-ai_40967283.htm#page=14&query=working%20memory%20banner%20brain&position=25&from_view=search&track=ais&uuid=142171a4-d07d-469f-a7dc-60f37d10544d">The website background image by vecstock on Freepik</a>.
