@@ -17,19 +17,13 @@ The PALM Lab studies our visual attention and working memory systems by linking 
 
 # {% include icon.html icon="fa-solid fa-wrench" %} Research Questions
 
-{% include section.html %}
-
 ## How are features bound together and stored in visual working memory?
 
 The visual working memory system rapidly pieces together different visual features, such as color and shape, into perceived objects. At the same time, our visual working memory system can focus our attention on relevant items, filtering out irrelevant items and sometimes even irrelevant features! Our research aims to understand how various **perceptual factors** and **cognitive factors** influences working memory representations. In particular, how does featural information become *bound into objects* and stored in working memory, and whether this sets a sharp limit on how much we can hold in mind. 
 
-{% include section.html %}
-
 ## How does experience and learning change how we attend to and store information in working memory?
 
 There is a growing appreciation that our previous learning and experience can shape how we encode and represent information in mind. Our long-term memory system can readily shape how we attend to incoming visual information, at surprisingly early stages of visual processing. In particular, we are interested in **how different types of learning** (e.g. recognition training, statistical learning, associative learning) **may improve the efficiency of the visual working memory system**, whether this is achieved by changing working memory itself or circumventing its sharp capacity limit through other means.
-
-{% include section.html %}
 
 ## Decoding the contents of visual working memory using neuroimaging and multivariate classification
 
