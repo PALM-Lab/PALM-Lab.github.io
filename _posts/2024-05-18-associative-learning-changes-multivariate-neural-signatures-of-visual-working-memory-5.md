@@ -1,5 +1,5 @@
 ---
-title: Associative learning changes multivariate neural signatures of working memory load
+title: Associative learning changes multivariate neural signatures of visual working memory
 author: william-ngiam
 tags:
     - VSS
