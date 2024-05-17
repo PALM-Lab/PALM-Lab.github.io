@@ -10,4 +10,9 @@ nav:
 {% include section.html %}
 
 {% include list.html data="members" component="portrait" filters="role: pi" %}
-{% include list.html data="members" component="portrait" filters="role: ^(?!pi$)" %}
+
+{% include section.html %}
+
+# {include icon.html icon="fa-solid fa-users" %}Collaborators
+
+{% include list.html data="members" component="portrait" filters="role: collaborator" %}
