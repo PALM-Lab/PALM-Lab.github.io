@@ -13,6 +13,6 @@ nav:
 
 {% include section.html %}
 
-# {include icon.html icon="fa-solid fa-users" %}Collaborators
+# {% include icon.html icon="fa-solid fa-users" %}Collaborators
 
 {% include list.html data="members" component="portrait" filters="role: collaborator" %}
