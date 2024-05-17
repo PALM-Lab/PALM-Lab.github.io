@@ -106,6 +106,7 @@
     delay activity (CDA), estimating the statistical power for detecting the presence
     of the CDA and its set-size effects. We provide an app that can estimate the statistical
     power for a given number of trials and subjects.
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/8084110/bin/nihms-1691056-f0006.jpg
   buttons:
   - type: preprint
     text: Preprint
