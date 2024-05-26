@@ -43,7 +43,7 @@
     working memory, leading to a 'theory map'. The hope is that the theory map provides
     a common space to better discuss various empirical phenomena and move towards
     a model-based approach to research visual working memory.
-  image: https://media.springernature.com/full/springer-static/image/art%3A10.3758%2Fs13423-023-02356-5/MediaObjects/13423_2023_2356_Fig1_HTML.png?as=webp
+  image: /images/theory_map.png
   buttons:
   - type: preprint
     text: Preprint
