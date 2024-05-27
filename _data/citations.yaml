@@ -137,6 +137,7 @@
     can recall more items overall. However, this is contingent on subjects having
     explicit awareness of the regularities, supporting a long-term memory 'chunking'
     account.
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7375746/bin/nihms-1605259-f0006.jpg
   buttons:
   - type: preprint
     link: https://awhvogellab.files.wordpress.com/2019/06/ngiam-brissenden-and-awh-2019-preprint.pdf
@@ -166,6 +167,7 @@
   description: Visual working memory is better for familiar letters compared to unfamiliar
     characters, including artifical characters matched in stimulus complexity. This
     suggests learned experience can benefit the encoding of visual information.
+  image: /images/familiar_letters.png
   buttons:
   - type: preprint
     link: https://psyarxiv.com/cxkw5
