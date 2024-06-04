@@ -11,29 +11,6 @@ This is the website for the **P**erception, **A**ttention, **L**earning and **M*
 
 {% capture text %}
 
-Check out our recent research publications, along with the associated preprint, data and code here:
-
-{%
-  include button.html
-  link="research"
-  text="See our publications"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
-%}
-
-{% endcapture %}
-
-{%
-  include feature.html
-  image="images/conjunction_whole-report.png"
-  link="research"
-  title="Our Publications"
-  text=text
-%}
-
-{% capture text %}
-
 Read about the current research projects going on in the PALM Lab:
 
 {%
@@ -59,6 +36,29 @@ Read about the current research projects going on in the PALM Lab:
 
 {% capture text %}
 
+Check out our recent research publications, along with the associated preprint, data and code here:
+
+{%
+  include button.html
+  link="research"
+  text="See our publications"
+  icon="fa-solid fa-arrow-right"
+  flip=true
+  style="bare"
+%}
+
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/conjunction_whole-report.gif"
+  link="research"
+  title="Our Publications"
+  text=text
+%}
+
+{% capture text %}
+
 Learn more about the members of the PALM Lab!
 
 {%
@@ -74,7 +74,7 @@ Learn more about the members of the PALM Lab!
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/boston_dynamics.gif"
   link="team"
   title="Our Team"
   text=text
