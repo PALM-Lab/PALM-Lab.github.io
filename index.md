@@ -51,9 +51,10 @@ Check out our recent research publications, along with the associated preprint, 
 
 {%
   include feature.html
-  image="images/conjunction_whole-report.gif"
+  image="images/projects/conjunction_whole-report.gif"
   link="research"
   title="Our Publications"
+  flip=true
   text=text
 %}
 
@@ -74,9 +75,10 @@ Learn more about the members of the PALM Lab!
 
 {%
   include feature.html
-  image="images/boston_dynamics.gif"
+  image="images/projects/boston_dynamics.gif"
   link="team"
   title="Our Team"
+  flip=True
   text=text
 %}
 
