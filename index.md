@@ -26,7 +26,7 @@ Read about the current research projects going on in the PALM Lab:
 
 {%
   include feature.html
-  image="images/guess_bands.png"
+  image="images/projects/boston_dynamics.gif"
   link="projects"
   title="Our Projects"
   flip=true
@@ -75,10 +75,10 @@ Learn more about the members of the PALM Lab!
 
 {%
   include feature.html
-  image="images/projects/boston_dynamics.gif"
+  image="images/guess_bands.png"
   link="team"
   title="Our Team"
-  flip=True
+  flip=true
   text=text
 %}
 
