@@ -7,7 +7,7 @@ aliases:
   - William X. Q. Ngiam
 links:
   email: william.ngiam@adelaide.edu.au
-  home-page: https://williamngiam.github.io
+  home-page: https://researchers.adelaide.edu.au/profile/william.ngiam
   orcid: 0000-0003-3567-3881
 ---
 
