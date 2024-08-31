@@ -29,6 +29,7 @@
   - whole-report
   - computational modeling
   - capacity limits
+  - representations
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.3758/s13423-023-02356-5
@@ -54,6 +55,7 @@
   tags:
   - theory map
   - pointers
+  - representations
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.3758/s13414-022-02631-y
