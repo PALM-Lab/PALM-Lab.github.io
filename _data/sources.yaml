@@ -1,4 +1,22 @@
 - id: doi:10.1037/xge0001479
+  date: '2024-08-19'
+  type: paper
+  description: Using multivariate decoding, Henry Jones shows that neural signals for the number of items stored in working memory are insensitive to breath and position of spatial attention. This suggests that while related, spatial attention is functionally dissociable from the selection and maintenace of information in mind.
+  image: /images/jones_psychsci.png
+  buttons:
+    - type: website
+      text: Journal Page
+      link: https://journals.sagepub.com/doi/abs/10.1177/09567976241263002
+    - type: data
+      text: Data and Code
+      link: https://osf.io/8vur2/
+  tags:
+    - multivariate decoding
+    - spatial attention
+    - representations
+    - pointers
+
+- id: doi:10.1037/xge0001479
   date: '2023-09-11'
   type: paper
   description: Using a new 'conjunction whole-report' paradigm, we find that visual working memory is limited by object-based encoding, but that features can also be independently lost from the memory for an item. We developed a computational model that captures both feature-based and object-based effects.
@@ -17,6 +35,7 @@
     - whole-report
     - computational modeling
     - capacity limits
+    - representations
 
 - id: doi:10.3758/s13423-023-02356-5
   authors:
@@ -35,6 +54,7 @@
   tags:
     - theory map
     - pointers
+    - representations
 
 - id: doi:10.3758/s13414-022-02631-y
   date: '2022-12-20'
