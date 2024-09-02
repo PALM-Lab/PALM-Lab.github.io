@@ -9,6 +9,7 @@ links:
   email: william.ngiam@adelaide.edu.au
   home-page: https://researchers.adelaide.edu.au/profile/william.ngiam
   orcid: 0000-0003-3567-3881
+  website: https://williamngiam.github.io
 ---
 
 Dr William Ngiam is the lead researcher of the PALM Lab. He became a lecturer at the University of Adelaide in 2024.
