@@ -26,6 +26,10 @@ undergrad:
   icon: fa-solid fa-book-bookmark
   description: Undergraduate Student
 
+intern:
+  icon: fa-solid fa-book-bookmark
+  description: Research Intern
+
 programmer:
   icon: fa-solid fa-code
   description: Programmer

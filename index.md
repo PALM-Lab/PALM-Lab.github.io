@@ -86,6 +86,7 @@ Learn more about the members of the PALM Lab!
 
 ## Recent updates
 
+**September 2024:** [Oliver Lack](https://palm-lab.github.io/members/oliver-lack.html) becomes the first student member of the PALM Lab! His project will examine human perceptions of machine consciousness.
 **June 2024:** William becomes a Lecturer at the University of Adelaide and starts the PALM Lab! 
 
 {% include section.html %}
