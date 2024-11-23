@@ -13,6 +13,8 @@ You can find a collection of our lab's research resources here:
 
 [Github](https://github.com/PALM-Lab)
 
-![image](/images/qualCA_logo.jpeg)
+### QualCA
 
-[QualCA](https://palm-lab.github.io/QualCA)
+![image](/images/qualCA_logo.png)
+
+[QualCA](https://palm-lab.github.io/QualCA) is a lightweight, free-to-use, in-browser ShinyApp for qualitative coding of texts.
