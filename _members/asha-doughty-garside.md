@@ -6,7 +6,7 @@ aliases:
   - Asha Doughty-Garside
 links:
   email: douag002@mymail.unisa.edu.au
-  website: www.linkedin.com/in/asha-grace-doughty-garside-a787242b9
+  website: https://www.linkedin.com/in/asha-grace-doughty-garside-a787242b9
 ---
 
 Asha Doughty-Garside is currently a researcher at the University of Adelaide and is a student at University of South Australia studying Bachelor of Psychology (Cognitive Neuroscience). Asha is researching under Dr William Ngiam's mentorship with the Perception, Attention, Learning and Memory (PALM) Lab. 

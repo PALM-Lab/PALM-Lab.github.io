@@ -13,4 +13,6 @@ You can find a collection of our lab's research resources here:
 
 [Github](https://github.com/PALM-Lab)
 
+![image](/images/qualCA_logo.jpeg)
+
 [QualCA](https://palm-lab.github.io/QualCA)
