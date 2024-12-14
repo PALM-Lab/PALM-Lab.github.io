@@ -3,7 +3,7 @@
 
 # Welcome!
 
-This is the website for the **P**erception, **A**ttention, **L**earning and **M**emory Lab in the School of Psychology at the University of Adelaide. We are a cognitive psychology and neuroscience lab studying how humans store and hold visual information in mind, headed by Dr William Ngiam.
+We are a cognitive psychology and neuroscience lab, studying visual attention and working memory – how we represent visual information in the mind and in the brain, headed by Dr William Ngiam. The **P**erception, **A**ttention, **L**earning and **M**emory Lab is part of the [School of Psychology at the University of Adelaide](https://health.adelaide.edu.au/psychology/). 
 
 {% include section.html %}
 
@@ -86,7 +86,10 @@ Learn more about the members of the PALM Lab!
 
 ## Recent updates
 
+**November 2024:** [Asha Doughty-Garside](https://palm-lab.github.io/members/asha-doughty-garside.html) joins as a summer research scholar! She will learn to code an experiment in jsPsych, testing how learning influences recall.
+
 **September 2024:** [Oliver Lack](https://palm-lab.github.io/members/oliver-lack.html) becomes the first student member of the PALM Lab! His project will examine human perceptions of machine consciousness.
+
 **June 2024:** William becomes a Lecturer at the University of Adelaide and starts the PALM Lab! 
 
 {% include section.html %}

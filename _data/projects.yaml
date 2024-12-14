@@ -1,4 +1,4 @@
-- title: The binding problem
+- title: The feature binding problem
   subtitle: How do we bind the various features of an object in working memory?
   group: featured
   image: images/projects/conjunction_whole-report.gif
@@ -10,7 +10,7 @@
     - pointers
     - whole-report
 
-- title: Learning and working memory
+- title: When perception is shaped by experience
   subtitle: How does learning change how we attend to and store information?
   group: featured
   image: images/mvChunks.png
