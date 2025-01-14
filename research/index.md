@@ -7,11 +7,9 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Research
 
-Check out the PALM Lab's publications below:
+The PALM Lab is committed to advancing cognitive science through open scholarship. On this page, you will find our research publications, with links to the associated preprint, experiment data and code. 
 
-{% include section.html %}
-
-## Highlighted
+## Highlights
 
 {% include citation.html lookup="Object-based encoding constrains storage in visual working memory" style="rich" %}
 
