@@ -1,6 +1,6 @@
 ---
 name: Yasmin Isa
-image: images/members/yasmin.jpeg
+image: images/members/yasmin.jpg
 role: honours
 aliases:
   - Yasmin Isa

@@ -86,7 +86,7 @@ Learn more about the members of the PALM Lab!
 
 ## Recent updates
 
-**March 2025:** The PALM Lab welcomes its inaugural Honours students, [Yasmin](https://palm-lab.github.io/members/yasmin-ali.html) and [Brigitte](https://palm-lab.github.io/members/brigitte-kamleh.html)!
+**March 2025:** The PALM Lab welcomes its inaugural Honours students, [Yasmin](https://palm-lab.github.io/members/yasmin-isa.html) and [Brigitte](https://palm-lab.github.io/members/brigitte-kamleh.html)!
 
 **November 2024:** [Asha Doughty-Garside](https://palm-lab.github.io/members/asha-doughty-garside.html) joins as a summer research scholar! She will learn to code an experiment in jsPsych, testing how learning influences recall.
 
@@ -100,7 +100,7 @@ Learn more about the members of the PALM Lab!
 
 The members of the PALM Lab wishes to acknowledge the Kaurna people, the original custodians of the Adelaide Plains and the land on which we currently reside and conduct our work, and on which the University of Adelaide's campuses at North Terrace, Waite, Thebarton and Roseworthy are built. Always was, always will be.
 
-<iframe width="1425" height="591" src="https://www.youtube.com/embed/3h_8X7yuilQ" title="What are we doing to the Earth?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="800" height="332" src="https://www.youtube.com/embed/3h_8X7yuilQ" title="What are we doing to the Earth?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 "We are wondering what is happening to the world. Everything is changed, changing each day. You woke up in the morning and wondered, "Is it going to get better or getting worse?". Everybody is wondering, young and old. Everything is going upside down. How are we going to stop and work on it and work together and make the world a better place to live for all of us? – Ngalangka Nola Taylor, Aboriginal artist from the Parnngur Community.
 
