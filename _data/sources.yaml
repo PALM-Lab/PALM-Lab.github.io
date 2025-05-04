@@ -1,3 +1,17 @@
+- id: doi:https://doi.org/10.31234/osf.io/8mxy3_v1
+  date: '2025-04-18'
+  type: paper
+  description: In a novel task combining multiple-object tracking with whole-report, Piotr and William examine how the contralateral delay activity (an event-related potential shown tracking load and working memory load in separate tasks) reacts in the combined task.
+  image: /images/projects/boston_dynamics.gif
+  buttons:
+    - type: preprint
+      text: Preprint
+      link: https://osf.io/preprints/psyarxiv/8mxy3_v1
+  tags:
+    - contralateral delay activity
+    - multiple-object tracking
+    - pointers
+
 - id: doi:10.1177/09567976241263002
   date: '2024-08-19'
   type: paper
