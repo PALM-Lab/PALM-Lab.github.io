@@ -1,9 +1,17 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:https://doi.org/10.31234/osf.io/8mxy3_v1
-  title: OSF
-  authors: []
-  publisher: ''
+- id: doi:10.31234/osf.io/8mxy3_v1
+  title: Item-based parsing of dynamic scenes in a combined attentional tracking and
+    working memory task
+  authors:
+  - Piotr Styrkowiec
+  - William. X. Q. Ngiam
+  - Will Epstein
+  - Ron Gneezy
+  - Henry M. Jones
+  - Edward Awh
+  - Edward K. Vogel
+  publisher: Center for Open Science
   date: '2025-04-18'
   link: https://doi.org/g9hb3x
   type: paper
@@ -16,6 +24,9 @@
   - type: preprint
     text: Preprint
     link: https://osf.io/preprints/psyarxiv/8mxy3_v1
+  - type: data
+    text: Data and Code
+    link: https://osf.io/c5zbq/
   tags:
   - contralateral delay activity
   - multiple-object tracking
