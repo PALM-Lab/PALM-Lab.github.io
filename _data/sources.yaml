@@ -1,4 +1,12 @@
-- id: doi:https://doi.org/10.31234/osf.io/8mxy3_v1
+- id: doi:10.31234/osf.io/8mxy3_v1
+  authors:
+    - Piotr Styrkowiec
+    - William. X. Q. Ngiam
+    - Will Epstein
+    - Ron Gneezy
+    - Henry M. Jones
+    - Edward Awh
+    - Edward K. Vogel
   date: '2025-04-18'
   type: paper
   description: In a novel task combining multiple-object tracking with whole-report, Piotr and William examine how the contralateral delay activity (an event-related potential shown tracking load and working memory load in separate tasks) reacts in the combined task.
@@ -7,6 +15,9 @@
     - type: preprint
       text: Preprint
       link: https://osf.io/preprints/psyarxiv/8mxy3_v1
+    - type: data
+      text: Data and Code
+      link: https://osf.io/c5zbq/
   tags:
     - contralateral delay activity
     - multiple-object tracking
