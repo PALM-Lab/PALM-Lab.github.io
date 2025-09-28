@@ -5,7 +5,7 @@
 
 We are a cognitive psychology and neuroscience lab headed by Dr William Ngiam, studying visual attention and working memory – how we represent visual information in the mind and in the brain. The **P**erception, **A**ttention, **L**earning and **M**emory Lab is part of the [School of Psychology at the University of Adelaide](https://health.adelaide.edu.au/psychology/). 
 
-<img src="/images/green_palm.jpg" alt="Green PALM Lab>
+![Green PALM Lab](/images/green_palm.jpg)
 
 {% include section.html %}
 
