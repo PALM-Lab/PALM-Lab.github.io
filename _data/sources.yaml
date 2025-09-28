@@ -15,6 +15,9 @@
     - type: preprint
       text: Preprint
       link: https://osf.io/preprints/psyarxiv/8mxy3_v2
+    - type: website
+      text: Journal Page
+      link: https://doi.org/10.1162/jocn.a.96
     - type: data
       text: Data and Code
       link: https://osf.io/c5zbq/

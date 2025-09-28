@@ -7,15 +7,16 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Research
 
-The PALM Lab is committed to advancing cognitive science through open scholarship. On this page, you will find our research publications, with links to the associated preprint, experiment data and code. 
+The PALM Lab is committed to advancing cognitive science through open scholarship. On this page, you will find our research publications, with links to the journal article page, the associated preprint, and any experiment data and code. 
 
-## Highlights
+## Recent Publications
+
+{% include citation.html lookup="Item-based Parsing of Dynamic Scenes in a Combined Attentional Tracking and
+    Working Memory Task" style="rich" %}
 
 {% include citation.html lookup="Object-based encoding constrains storage in visual working memory" style="rich" %}
 
 {% include citation.html lookup="Mapping visual working memory models to a theoretical framework" style="rich" %}
-
-{% include citation.html lookup="Distinguishing guesses from fuzzy memories: Further evidence for item limits in visual working memory" style="rich" %}
 
 {% include section.html %}
 
