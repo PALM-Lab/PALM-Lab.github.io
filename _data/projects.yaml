@@ -1,3 +1,14 @@
+- title: The mental representation underlying cognition
+  subtitle: How is information represented in mind and brain?
+  group: featured
+  image: images/projects/similarity_representation.png
+  link: https://osf.io/preprints/psyarxiv/fm9vz_v1
+  description: How do we represent information in mind? Understanding this will help us evaluate how the attentional and working memory systems operate and build a complete cognitive model.
+  repo: 
+  tags:
+    - representation
+    - cognitive models
+
 - title: The feature binding problem
   subtitle: How do we bind the various features of an object in working memory?
   group: featured

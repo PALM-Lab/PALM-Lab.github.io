@@ -11,8 +11,7 @@ The PALM Lab is committed to advancing cognitive science through open scholarshi
 
 ## Recent Publications
 
-{% include citation.html lookup="Item-based Parsing of Dynamic Scenes in a Combined Attentional Tracking and
-    Working Memory Task" style="rich" %}
+{% include citation.html lookup="Item-based Parsing" style="rich" %}
 
 {% include citation.html lookup="Object-based encoding constrains storage in visual working memory" style="rich" %}
 
