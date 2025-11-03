@@ -11,6 +11,8 @@ The PALM Lab is committed to advancing cognitive science through open scholarshi
 
 ## Recent Publications
 
+{% include citation.html lookup="Similarity judgments" style="rich" %}
+
 {% include citation.html lookup="Item-based Parsing" style="rich" %}
 
 {% include citation.html lookup="Object-based encoding constrains storage in visual working memory" style="rich" %}

@@ -1,6 +1,6 @@
 ---
 name: Nicole Nelson
-image: https://researchers.adelaide.edu.au/sites/default/files/styles/profile_large/public/profile-images/25594.jpeg?itok=rDUyG_dS
+image: images/members/nicole.jpeg
 role: collaborator
 aliases:
   - Nicole Nelson

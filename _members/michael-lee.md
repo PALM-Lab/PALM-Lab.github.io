@@ -7,7 +7,8 @@ aliases:
   - Michael D. Lee
 links:
   email: mdlee@uci.edu
-  website: https://faculty.sites.uci.edu/mdlee/ 
+  home-page: https://faculty.sites.uci.edu/mdlee/ 
+  orcid: https://orcid.org/0000-0001-7538-0720
 ---
 
 # Personal Background 

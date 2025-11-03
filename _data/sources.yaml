@@ -13,10 +13,10 @@
       text: Data and Code
       link: https://github.com/mdlee/orientationModeling
   tags:
-    - representation
+    - representations
     - cognitive modeling
     - psychological similarity
-    - working memory
+    - memory reproduction
 
 - id: doi:10.1162/jocn.a.96
   authors:
@@ -62,7 +62,7 @@
     - multivariate decoding
     - spatial attention
     - representations
-    - memory reproduction
+    - pointers
 
 - id: doi:10.1037/xge0001479
   date: '2023-09-11'
