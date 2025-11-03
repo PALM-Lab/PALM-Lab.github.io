@@ -1,5 +1,34 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.31234/osf.io/fm9vz_v1 - William. X. Q. Ngiam - Michael D. Lee
+  title: Similarity judgments and visual working memory do not share the same cognitive
+    representation
+  authors:
+  - William Xiang Quan Ngiam
+  - Michael David Lee
+  publisher: PsyArXiv
+  date: '2025-11-03'
+  link: https://doi.org/10.31234/osf.io/fm9vz_v1 - william. x. q. ngiam - michael
+    d. lee
+  type: paper
+  description: Using Bayesian generative modeling, we recover the cognitive representation
+    underlying three tasks. We show that similarity comparisons and memory reproduction
+    do not share the same representation.
+  image: /images/projects/similarity_representation.png
+  buttons:
+  - type: preprint
+    text: Preprint
+    link: https://osf.io/preprints/psyarxiv/fm9vz_v1
+  - type: data
+    text: Data and Code
+    link: https://github.com/mdlee/orientationModeling
+  tags:
+  - representation
+  - cognitive modeling
+  - psychological similarity
+  - working memory
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1162/jocn.a.96
   title: Item-based Parsing of Dynamic Scenes in a Combined Attentional Tracking and
     Working Memory Task
@@ -65,7 +94,7 @@
   - multivariate decoding
   - spatial attention
   - representations
-  - pointers
+  - memory reproduction
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1037/xge0001479
