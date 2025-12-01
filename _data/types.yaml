@@ -38,6 +38,10 @@ mascot:
   icon: fa-solid fa-dog
   description: Mascot
 
+honours_graduate_25:
+  icon: fa-solid fa-user-graduate
+  description: Honours Graduate (2025)
+
 graduated:
   icon: fa-solid fa-user-graduate
   description: Alumni

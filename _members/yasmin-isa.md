@@ -1,7 +1,7 @@
 ---
 name: Yasmin Isa
 image: images/members/yasmin.jpg
-role: honours
+role: honours_graduate_25
 aliases:
   - Yasmin Isa
   - Yasmin Naomi Emine Isa

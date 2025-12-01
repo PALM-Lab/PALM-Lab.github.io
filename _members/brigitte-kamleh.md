@@ -1,7 +1,7 @@
 ---
 name: Brigitte Kamleh
 image: images/members/brigitte.jpg
-role: honours
+role: honours_graduate_25
 aliases:
   - Brigitte Kamleh
 links:
