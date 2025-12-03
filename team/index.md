@@ -5,9 +5,9 @@ nav:
   tooltip: About our team
 ---
 
-# {% include icon.html icon="fa-solid fa-users" %}Current Lab Members
-
 {% include section.html %}
+
+# {% include icon.html icon="fa-solid fa-users" %}Current Lab Members
 
 {% include list.html data="members" component="portrait" filters="role: pi" %}
 
