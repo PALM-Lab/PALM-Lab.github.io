@@ -13,6 +13,12 @@ You can find a collection of our lab's research resources here:
 
 [Github](https://github.com/PALM-Lab)
 
+### Open WM Data
+
+![image](/images/openWM.webp)
+
+[OpenWMData](https://williamngiam.github.io/OpenWMData) is an initiative to curate and organise working memory datasets in a hub. The datasets are tagged with useful metadata, making it easier to find relevant datasets for computational reproduction, secondary analysis, and meta-research projects.
+
 ### QualCA
 
 ![image](/images/qualCA_logo.png)

@@ -5,9 +5,7 @@
 
 We are a cognitive psychology and neuroscience lab headed by Dr William Ngiam, studying visual attention and working memory – how we select and represent visual information in the mind and in the brain. 
 
-The **P**erception, **A**ttention, **L**earning and **M**emory Lab is part of the [School of Psychology at Adelaide University](https://health.adelaide.edu.au/psychology/). 
-
-<div style="text-align: center"><img src="/images/green_palm.jpg" alt="Green PALM Lab" width = "50%"></div>
+The **P**erception, **A**ttention, **L**earning and **M**emory Lab is part of the [School of Psychology at Adelaide University](https://health.adelaide.edu.au/psychology/).
 
 {% include section.html %}
 
@@ -89,6 +87,10 @@ Learn more about the members of the PALM Lab!
 {% include section.html %}
 
 ## Recent updates
+
+**January 2026:** The PALM Lab is now part of Adelaide University, following the merger between the University of Adelaide and University of South Australia.
+
+**November 2025:** [Yasmin](https://palm-lab.github.io/members/yasmin-isa.html) and [Brigitte](https://palm-lab.github.io/members/brigitte-kamleh.html) received First Class Honours! Congratulations!
 
 **March 2025:** The PALM Lab welcomes its inaugural Honours students, [Yasmin](https://palm-lab.github.io/members/yasmin-isa.html) and [Brigitte](https://palm-lab.github.io/members/brigitte-kamleh.html)!
 
