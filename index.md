@@ -3,7 +3,7 @@
 
 # Welcome!
 
-We are a cognitive psychology and neuroscience lab headed by Dr William Ngiam, studying visual attention and working memory – how we select and represent visual information in the mind and in the brain. 
+We are a computational cognitive neuroscience lab headed by Dr William Ngiam, studying how we select and represent information in the mind and in the brain. 
 
 The **P**erception, **A**ttention, **L**earning and **M**emory Lab is part of the [School of Psychology at Adelaide University](https://health.adelaide.edu.au/psychology/).
 
