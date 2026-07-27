@@ -1,8 +1,9 @@
 - id: doi:10.31234/osf.io/fm9vz_v3
+  authors:
     - William. X. Q. Ngiam
     - Michael D. Lee
   date: '2026-07-03'
-  type: paper
+  type: preprint
   description: Using Bayesian generative modeling, we recover the cognitive representation underlying three tasks. We show that similarity comparisons and memory reproduction do not share the same representation. 
   image: /images/projects/similarity_representation.png
   buttons:
@@ -19,6 +20,7 @@
     - memory reproduction
 
 - id: doi:10.1525/collabra.161934
+  authors:
     - William. X. Q. Ngiam
     - Natasha van Antwerpen
     - Ella K. Moeck
