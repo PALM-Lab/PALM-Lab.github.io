@@ -37,6 +37,18 @@
     - digital technology
     - attention spans
 
+- id: doi:10.1162/JOCN.a.2522
+  date: '2026-07-01'
+  type: paper
+  description: Multivariate decoding of working memory load generalises between words and colors, supporting a common pointer signal.
+  buttons:
+    - type: website
+      text: Journal Page
+      link: https://doi.org/10.1162/jocn.a.96
+  tags:
+    - multivariate decoding
+    - pointers
+
 - id: doi:10.1162/jocn.a.96
   authors:
     - Piotr Styrkowiec
