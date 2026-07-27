@@ -1,14 +1,14 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.31234/osf.io/fm9vz_v1 - William. X. Q. Ngiam - Michael D. Lee
-  title: Similarity judgments and visual working memory do not share the same cognitive
-    representation
+- id: doi:10.31234/osf.io/fm9vz_v3 - William. X. Q. Ngiam - Michael D. Lee
+  title: Model-based evidence for task-dependent representations in psychological
+    similarity and working memory
   authors:
   - William Xiang Quan Ngiam
   - Michael David Lee
   publisher: PsyArXiv
-  date: '2025-11-03'
-  link: https://doi.org/10.31234/osf.io/fm9vz_v1 - william. x. q. ngiam - michael
+  date: '2026-07-03'
+  link: https://doi.org/10.31234/osf.io/fm9vz_v3 - william. x. q. ngiam - michael
     d. lee
   type: paper
   description: Using Bayesian generative modeling, we recover the cognitive representation
@@ -18,7 +18,7 @@
   buttons:
   - type: preprint
     text: Preprint
-    link: https://osf.io/preprints/psyarxiv/fm9vz_v1
+    link: https://osf.io/preprints/psyarxiv/fm9vz_v3
   - type: data
     text: Data and Code
     link: https://github.com/mdlee/orientationModeling
@@ -27,6 +27,32 @@
   - cognitive modeling
   - psychological similarity
   - memory reproduction
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1525/collabra.161934 - William. X. Q. Ngiam - Natasha van Antwerpen -
+    Ella K. Moeck - Carly R. Stagg
+  title: "\u201CEndless Mind-Numbing Slop\u201D: A Qualitative Analysis of the Perceived\
+    \ Impact of Digital Technology on Attention"
+  authors:
+  - WIlliam X.Q. Ngiam
+  - Natasha Van Antwerpen
+  - Ella K. Moeck
+  - Carly R. Stagg
+  publisher: 'Collabra: Psychology'
+  date: '2026-05-18'
+  link: https://doi.org/10.1525/collabra.161934 - william. x. q. ngiam - natasha van
+    antwerpen - ella k. moeck - carly r. stagg
+  type: paper
+  description: A qualitative analysis of relevant subreddits exploring the perceived
+    impact of digital technology on attention spans.
+  image: /images/projects/thematic_map.png
+  buttons:
+  - type: website
+    text: Journal Page
+    link: https://doi.org/10.1525/collabra.161934
+  tags:
+  - digital technology
+  - attention spans
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1162/jocn.a.96
