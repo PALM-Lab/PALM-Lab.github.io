@@ -1,16 +1,15 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.31234/osf.io/fm9vz_v3 - William. X. Q. Ngiam - Michael D. Lee
+- id: doi:10.31234/osf.io/fm9vz_v3
   title: Model-based evidence for task-dependent representations in psychological
     similarity and working memory
   authors:
-  - William Xiang Quan Ngiam
-  - Michael David Lee
-  publisher: PsyArXiv
+  - William. X. Q. Ngiam
+  - Michael D. Lee
+  publisher: Center for Open Science
   date: '2026-07-03'
-  link: https://doi.org/10.31234/osf.io/fm9vz_v3 - william. x. q. ngiam - michael
-    d. lee
-  type: paper
+  link: https://doi.org/hcctr9
+  type: preprint
   description: Using Bayesian generative modeling, we recover the cognitive representation
     underlying three tasks. We show that similarity comparisons and memory reproduction
     do not share the same representation.
@@ -29,19 +28,17 @@
   - memory reproduction
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.1525/collabra.161934 - William. X. Q. Ngiam - Natasha van Antwerpen -
-    Ella K. Moeck - Carly R. Stagg
+- id: doi:10.1525/collabra.161934
   title: "\u201CEndless Mind-Numbing Slop\u201D: A Qualitative Analysis of the Perceived\
     \ Impact of Digital Technology on Attention"
   authors:
-  - WIlliam X.Q. Ngiam
-  - Natasha Van Antwerpen
+  - William. X. Q. Ngiam
+  - Natasha van Antwerpen
   - Ella K. Moeck
   - Carly R. Stagg
   publisher: 'Collabra: Psychology'
   date: '2026-05-18'
-  link: https://doi.org/10.1525/collabra.161934 - william. x. q. ngiam - natasha van
-    antwerpen - ella k. moeck - carly r. stagg
+  link: https://doi.org/hcctsb
   type: paper
   description: A qualitative analysis of relevant subreddits exploring the perceived
     impact of digital technology on attention spans.
